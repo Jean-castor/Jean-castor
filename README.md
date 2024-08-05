@@ -9,8 +9,8 @@
      <img aligin="Center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Desenvolvedor web de alta performance com foco em programação front-end, pussuo habilidades sólidas em Javascript | React.js | RestFull Apis, HTML% e CSS3.
-Atualmente estou aprendendo sobre Next.js, suas ferramentas e pripriedades para um melhor desenvolvimento de projetos pessoais e profissionais.
+Desenvolvedor web de alta performance com foco em programação Front-end, pussuo habilidades sólidas em Javascript | React.js | RestFull Apis, HTML% e CSS3.
+Atualmente estou aprendendo sobre Next.js, suas ferramentas, propriedades, e impacto para um melhor desenvolvimento de projetos pessoais e profissionais.
 Cursando Análise e desenvolvimento de sistemas pela instituição (Gran faculdade).
 
 Certificações nas línguagens de programação que estão no meu perfil pela plataforma:
